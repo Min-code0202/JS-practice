@@ -25,7 +25,7 @@
 
 ### 3️⃣ 스코프와 실행 컨텍스트  
 > 변수의 유효 범위와 실행 흐름을 깊이 있게 이해합니다.
-- [01_lexical_scope.js](03_scope-and-context/01_lexical_scope.js) — 렉시컬 스코프, 체인  
+- [01_lexical_scope.js](03_scope-and-context/01_blocks_and_scope.js) — 렉시컬 스코프, 체인  
 - [02_execution_context.js](03_scope-and-context/02_execution_context.js) — 실행 컨텍스트, 콜스택 구조  
 - [03_var_let_const.js](03_scope-and-context/03_var_let_const.js) — `var`, `let`, `const` 차이  
 
