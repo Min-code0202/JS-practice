@@ -35,8 +35,8 @@
 > 자바스크립트 함수의 작동 원리와 고급 활용법을 학습합니다.
 - [01_function_declaration_expression.js](04_functions/01_function_declaration_expression.js) — 선언 vs 표현식  
 - [02_first_class_functions.js](04_functions/02_first_class_functions.js) — 일급 객체, 콜백 함수  
-- [03_closure_and_this.js](04_functions/03_closure_and_this.js) — 클로저, `this` 바인딩  
-- [04_parameter_and_currying.js](04_functions/04_parameter_and_currying.js) — 기본값, 나머지 인자, 커링  
+- [03_parameters_arguments.js](04_functions/03_parameters_arguments.js) — 매개변수 및 arguments 객체
+- [04_additional.js](04_functions/04_additional.js) — 추가적인 함수
 
 ---
 
