@@ -1,4 +1,4 @@
-# 03_first_class_functions.js
+# 02_first_class_functions.js
 > 자바스크립트 함수의 일급 객체 특성과 활용 방법 학습
 
 ---

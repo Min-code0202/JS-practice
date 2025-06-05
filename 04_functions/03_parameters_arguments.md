@@ -1,4 +1,4 @@
-# 04_parameters_arguments.js
+# 03_parameters_arguments.js
 
 > 자바스크립트의 함수 매개변수, arguments 객체, 나머지 매개변수(rest parameter)에 대해 학습
 
